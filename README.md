@@ -2,7 +2,6 @@
 
 - 👯 I’m looking to collaborate on **website development projects**
 - 💬 Ask me about **Technology and Personal Development**
-- 📫 How to reach me:bboobalan379@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:/I Like a Travelling
 
