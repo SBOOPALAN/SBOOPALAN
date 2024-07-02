@@ -13,41 +13,41 @@
 
 <h4>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Resume</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Css_Jack's shopping_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Css_Js_Arrow Furniture Shop_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Bootstrap_Coffee_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-WEB/">Html_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-CSS-Shopping-WEB/">Html_Css_Jack's shopping_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-CSS-JS-Furniture-Web/">Html_Css_Js_Arrow Furniture Shop_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/Bootstrap-Coffee-Website/">Bootstrap_Coffee_Web</a><br><br>
 </h4>
 
 <h3>📘 JAVASCRIPT PROJECTS</h3>
 
 <h4>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_Red Studio_Animation_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_Portfolio_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_Calculator_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_StopWatch_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_Login Form_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/RedStudio-animation-Temp/">Js_Red Studio_Animation_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/JS_Portfolio_Website/">Js_Portfolio_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/JS_Calculator/">Js_Calculator_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/stopwatch_js/">Js_StopWatch_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/Sdlc-Task-login-form-JS/">Js_Login Form_Web</a><br><br>
 </h4>
 
 <h3>📘 REACT PROJECTS</h3>
 
 <h4>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">React_Todolist_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/todolist--App-using-react/">React_Todolist_Web</a><br><br>
 </h4>
 
 <h3>📘 REACT+VITE PROJECTS</h3>
 
 <h4>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">React+vite_AzarTech College_Web</a><br><br>  
+➡️ <a href="https://sboopalan.github.io/React-vite-college-web/">React+vite_AzarTech College_Web</a><br><br>  
 </h4>
 
 <h3>📘 TASK WORKOUT</h3>
 
 <h4>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Task_Askeva_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Task_Sdlc_Agri Temp_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Task_Sdlc_Financial Temp_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Task_Sdlc_FlyHigh Temp_Web</a><br><br>  
+➡️ <a href="https://sboopalan.github.io/askeva-Task-Building-Web/">Task_Askeva_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/Sdlc-Task-Agri-Temp/">Task_Sdlc_Agri Temp_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/Sdlc-Task-Finance-Temp/">Task_Sdlc_Financial Temp_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/Sdlc-Task-FlyHigh-Temp/">Task_Sdlc_FlyHigh Temp_Web</a><br><br>  
 </h4>
 
 ## 💫 About Me:
