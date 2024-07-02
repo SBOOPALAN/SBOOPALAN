@@ -5,9 +5,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:/I Like a Travelling
 
+# 📘 My Projects:
+
+
+
 # 💫 About Me:
 
-👋 Hi there! I'm Boobalan, a passionate  Full-Stack Developer , MERN Stack Developer , front end developer , web developer , web designing , backend developer , with a keen interest in web development , open-source contributions.<br><br>👨‍💻 About Me<br><br>🌱 I’m  completed a course in[ SDLC (Skill<br>Development Learning Center)<br>focused on  Full-Stack Developer MERN<br>and received a certificate."]<br><br>👯 I’m looking to collaborate on [FULL-Stack Developer interested in]<br><br>📫 How to reach me: [bboobalan379@gmail.com , 9566655083]<br><br>⚡ Fun fact: [When I'm not coding, you can find me hiking up mountains or experimenting with new recipes in the kitchen. I also have a collection of vintage video games that I love to play in my free time!]<br><br>🛠️ Languages and Tools<br><br>Languages: JavaScript, HTML, CSS<br><br>Frameworks/Libraries: Frontend: ReactJS, Bootstrap 5,  jQuery<br><br>Backend: Node.js, Express.js,<br><br>Databases: MongoDB, MySQL<br><br>Tools: GitHub, Visual Studio Code
+👋 Hi there! I'm Boobalan, a passionate  Full-Stack Developer , MERN Stack Developer , front end developer , web developer , web designing , backend developer , with a keen interest in web development , open-source contributions.<br><br>👨‍💻 About Me<br><br>🌱 I’m  completed a course in[ SDLC (Skill<br>Development Learning Center)<br>focused on  Full-Stack Developer MERN<br>and received a certificate."]<br><br>👯 I’m looking to collaborate on [FULL-Stack Developer interested in]<br><br>📫 How to reach me: [bboobalan379@gmail.com , 9566655083]<br><br>⚡ Fun fact: [When I'm not coding, you can find me hiking up mountains or experimenting with new recipes in the kitchen. I also have a collection of vintage video games that I love to play in my free time!]<br><br>🛠️ Languages and Tools<br><br>Languages: JavaScript, HTML, CSS<br><br>Frameworks/Libraries: Frontend: ReactJS, Bootstrap 5, jQuery, Json<br><br>Backend: Node.js, Express.js,<br><br>Databases: MongoDB, MySQL<br><br>Tools: GitHub, Visual Studio Code
 
 ## 🌐 Socials:
 
