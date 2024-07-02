@@ -12,39 +12,39 @@
 <h3>📘 FRONTEND PROJECTS</h3>
 
 <h4>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Resume</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Resume</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Css_Jack's shopping_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Css_Js_Arrow Furniture Shop_Web</a> <br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Bootstrap_Coffee_Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Css_Js_Arrow Furniture Shop_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Bootstrap_Coffee_Web</a><br><br>
 </h4>
 
 <h3>📘 JAVASCRIPT PROJECTS</h3>
 
 <h4>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_Red Studio_Animation_Web</a> <br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_Red Studio_Animation_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_Portfolio_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_Calculator_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_StopWatch_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_Login Form_Web</a><br><br>
 </h4>
 
 <h3>📘 REACT PROJECTS</h3>
 
 <h4>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">React_Todolist_Web</a><br><br>
 </h4>
 
 <h3>📘 REACT+VITE PROJECTS</h3>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">React+vite_AzarTech College_Web</a><br><br>
 
 <h3>📘 TASK WORKOUT</h3>
 
 <h4>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>  
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Task_Askeva_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Task_Sdlc_Agri Temp_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Task_Sdlc_Financial Temp_Web</a><br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Task_Sdlc_FlyHigh Temp_Web</a><br><br>  
 </h4>
 
 ## 💫 About Me:
