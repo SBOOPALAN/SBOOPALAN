@@ -6,7 +6,7 @@
 - ⚡ Fun fact:/I Like a Travelling
 - 
 <h3>📘 Projects Live link:</h3>
-<a href="file:///D:/FRONTEND%20PROJECTS/Html_Resume/index.html">html resume</a>
+<a href="https://sboopalan.github.io/HTML-RESUME/">html resume</a>
 
 # 💫 About Me:
 
