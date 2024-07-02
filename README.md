@@ -36,7 +36,10 @@
 </h4>
 
 <h3>📘 REACT+VITE PROJECTS</h3>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">React+vite_AzarTech College_Web</a><br><br>
+
+<h4>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">React+vite_AzarTech College_Web</a><br><br>  
+</h4>
 
 <h3>📘 TASK WORKOUT</h3>
 
