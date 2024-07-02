@@ -7,9 +7,9 @@
 <h2>👨🏼‍🎓 Projects Live link:</h2>
 
 <h3>📘 FRONTEND PROJECTS </h3>
-<a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a>
-<a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a>
-<a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a>
+.<a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br> <br>
+.<a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> 
+.<a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a>
 
 
 # 💫 About Me:
