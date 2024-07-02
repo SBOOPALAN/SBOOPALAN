@@ -14,30 +14,11 @@
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 
 <h3>📘 JAVASCRIPT PROJECTS</h3>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 
 # 💫 About Me:
 
