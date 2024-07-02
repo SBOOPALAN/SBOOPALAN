@@ -6,6 +6,9 @@
 - ⚡ Fun fact:/I Like a Travelling
 <h2>👨🏼‍🎓 Projects Live link:</h2>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SBOOPALAN&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 <h3>📘 FRONTEND PROJECTS</h3>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">HTML CSS WEB</a> <br><br>
@@ -49,10 +52,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=SBOOPALAN&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SBOOPALAN&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SBOOPALAN&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=SBOOPALAN&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
