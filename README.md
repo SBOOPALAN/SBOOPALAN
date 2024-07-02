@@ -4,11 +4,13 @@
 - 💬 Ask me about **Technology and Personal Development**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:/I Like a Travelling
-<h2>👨🏼‍🎓Projects Live link:</h2>
+<h2>👨🏼‍🎓 Projects Live link:</h2>
 
+<h3>📘 FRONTEND PROJECTS </h3>
+<a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a>
+<a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a>
+<a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a>
 
-<h3>📘FRONTEND PROJECTS </h3>
-<a href="https://sboopalan.github.io/HTML-RESUME/">html resume</a>
 
 # 💫 About Me:
 
