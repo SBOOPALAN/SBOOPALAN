@@ -7,17 +7,19 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=SBOOPALAN&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-<h1>👨🏼‍🎓 Projects Live link:</h1>
+<h2>👨🏼‍🎓 Projects Live link:</h2>
 
-<h2>📘 FRONTEND PROJECTS</h2>
+<h3>📘 FRONTEND PROJECTS</h3>
 
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/"></a>Html_Resume <br><br>
+<h4>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/"></a>Html_Resume<br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Web</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Css_Jack's shopping_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Css_Js_Arrow Furniture Shop_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Bootstrap_Coffee_Web</a> <br><br>
+</h4>
 
-<h2>📘 JAVASCRIPT PROJECTS</h2>
+<h3>📘 JAVASCRIPT PROJECTS</h3>
 
 <h4>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_Red Studio_Animation_Web</a> <br><br>
@@ -28,16 +30,22 @@
 </h4>
 
 <h3>📘 REACT PROJECTS</h3>
+
+<h4>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+</h4>
 
 <h3>📘 REACT+VITE PROJECTS</h3>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 
 <h3>📘 TASK WORKOUT</h3>
+
+<h4>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>  
+</h4>
 
 ## 💫 About Me:
 
