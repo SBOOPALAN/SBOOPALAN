@@ -18,13 +18,13 @@
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Bootstrap_Coffee_Web</a> <br><br>
 
 <h3>📘 JAVASCRIPT PROJECTS</h3>
-<h2>
+<h4>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Js_Red Studio_Animation_Web</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
-</h2>
+</h4>
 <h3>📘 REACT PROJECTS</h3>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 
