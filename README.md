@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:/I Like a Travelling
 
-# 📘 My Projects Live link:
+# 📘 Projects Live link:
 
 
 
