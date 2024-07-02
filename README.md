@@ -46,7 +46,6 @@
 <h4>
 ➡️ <a href="https://sboopalan.github.io/askeva-Task-Building-Web/">Task_Askeva_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/Sdlc-Task-Agri-Temp/">Task_Sdlc_Agri Temp_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/Sdlc-Task-Finance-Temp/">Task_Sdlc_Financial Temp_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/Sdlc-Task-FlyHigh-Temp/">Task_Sdlc_FlyHigh Temp_Web</a><br><br>  
 </h4>
 
