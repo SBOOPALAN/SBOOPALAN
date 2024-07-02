@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:/I Like a Travelling
 - 
-<h3>📘 Projects Live link:</h3>
+<h1>📘 Projects Live link:</h1>
 <a href="https://sboopalan.github.io/HTML-RESUME/">html resume</a>
 
 # 💫 About Me:
