@@ -8,7 +8,7 @@
 
 <h3>📘 FRONTEND PROJECTS</h3>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">HTML CSS WEB</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
@@ -19,6 +19,18 @@
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+
+<h3>📘 REACT PROJECTS</h3>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+
+<h3>📘 REACT+VITE PROJECTS</h3>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+
+<h3>📘 TASK WORKOUT</h3>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html Resume Web</a> <br><br
 
 # 💫 About Me:
 
