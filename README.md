@@ -4,9 +4,9 @@
 - 💬 Ask me about **Technology and Personal Development**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:/I Like a Travelling
-
-# 📘 Projects Live link:
-<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+- 
+<h3> # 📘 Projects Live link:</h3>
+ <p> html resume</p><a href="file:///D:/FRONTEND%20PROJECTS/Html_Resume/index.html"></a>
 
 # 💫 About Me:
 
