@@ -13,7 +13,6 @@
 
 <h4>
 ➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Resume</a><br><br>
-➡️ <a href="https://sboopalan.github.io/HTML-WEB/">Html_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-CSS-Shopping-WEB/">Html_Css_Jack's shopping_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-CSS-JS-Furniture-Web/">Html_Css_Js_Arrow Furniture Shop_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/Bootstrap-Coffee-Website/">Bootstrap_Coffee_Web</a>
@@ -26,7 +25,6 @@
 ➡️ <a href="https://sboopalan.github.io/JS_Portfolio_Website/">Js_Portfolio_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/JS_Calculator/">Js_Calculator_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/stopwatch_js/">Js_StopWatch_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/Sdlc-Task-login-form-JS/">Js_Login Form_Web</a>
 </h4>
 
 <h3>📘 REACT PROJECTS</h3>
@@ -40,14 +38,6 @@
 <h4>
 ➡️ <a href="https://sboopalan.github.io/React-vite-college-web/">React+vite_AzarTech College_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/ReactVite_LoginForm/">React+vite_Login_Form_Web</a> 
-</h4>
-
-<h3>📘 TASK WORKOUT</h3>
-
-<h4>
-➡️ <a href="https://sboopalan.github.io/askeva-Task-Building-Web/">Task_Askeva_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/Sdlc-Task-Agri-Temp/">Task_Sdlc_Agri Temp_Web</a><br><br>
-➡️ <a href="https://sboopalan.github.io/Sdlc-Task-FlyHigh-Temp/">Task_Sdlc_FlyHigh Temp_Web</a>
 </h4>
 
 ## 💫 About Me:
