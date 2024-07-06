@@ -12,7 +12,7 @@
 <h3>📘 FRONTEND PROJECTS</h3>
 
 <h4>
-➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Resume</a><br><br>
+➡️ <a href="https://sboopalan.github.io/HTML-RESUME/">Html_Resume_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-CSS-Shopping-WEB/">Html_Css_Jack's shopping_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/HTML-CSS-JS-Furniture-Web/">Html_Css_Js_Arrow Furniture Shop_Web</a><br><br>
 ➡️ <a href="https://sboopalan.github.io/Bootstrap-Coffee-Website/">Bootstrap_Coffee_Web</a>
